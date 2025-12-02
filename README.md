@@ -21,3 +21,5 @@ Or sometimes ./ to start a relative path
 git status  -- show all the new, modified and deleted files in the current git repo and their status
 
 git add . -- stage all files that are new or modified that are in the current directory
+git commit -- must write a commit message in the editor and close the tab
+git push -- push to remote
